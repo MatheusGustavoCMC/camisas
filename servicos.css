@@ -1,0 +1,49 @@
+header{
+    background-color: rgb(0, 0, 0);
+    padding: 20px 0;
+}
+nav{
+    position: absolute;
+    top: 80px;
+    right:  0px;
+}
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a{
+    text-transform: uppercase;
+    color: rgb(253, 1, 1);
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+.caixa{
+    position: relative;
+    width: 1480px;
+    height: 200px;
+    margin: 0 auto;
+}
+h1 img{
+    width: 150px;
+    position: absolute;
+    top: 50px;
+    left:  0px;
+}
+.servicos{
+    width: 1480px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+.servicos li{
+   display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20x; 
+    box-sizing: border-box;
+}
+.servicos img{
+    width: 200px;
+}
